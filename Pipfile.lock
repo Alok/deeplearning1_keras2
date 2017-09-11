@@ -1,0 +1,318 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "6a9ea13968c5732fa2a5f126e7731b76e290364a1591b8cfc61a37698e15ea94"
+        },
+        "pipfile-spec": 1,
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "alabaster": {
+            "version": "==0.7.10"
+        },
+        "appdirs": {
+            "version": "==1.4.3"
+        },
+        "astroid": {
+            "version": "==1.4.9"
+        },
+        "babel": {
+            "version": "==2.4.0"
+        },
+        "bcolz": {
+            "version": "==1.1.2"
+        },
+        "bleach": {
+            "version": "==2.0.0"
+        },
+        "cloudpickle": {
+            "version": "==0.2.2"
+        },
+        "configargparse": {
+            "version": "==0.10.0"
+        },
+        "coverage": {
+            "version": "==4.3.4"
+        },
+        "cycler": {
+            "version": "==0.10.0"
+        },
+        "cython": {
+            "version": "==0.25.2"
+        },
+        "dask": {
+            "version": "==0.14.0"
+        },
+        "decorator": {
+            "version": "==4.0.11"
+        },
+        "docutils": {
+            "version": "==0.13.1"
+        },
+        "entrypoints": {
+            "version": "==0.2.2"
+        },
+        "fasteners": {
+            "version": "==0.14.1"
+        },
+        "flake8": {
+            "version": "==3.0.4"
+        },
+        "future": {
+            "version": "==0.15.2"
+        },
+        "h5py": {
+            "version": "==2.6.0"
+        },
+        "html5lib": {
+            "version": "==0.999999999"
+        },
+        "imagesize": {
+            "version": "==0.7.1"
+        },
+        "ipykernel": {
+            "version": "==4.5.2"
+        },
+        "ipython": {
+            "version": "==5.3.0"
+        },
+        "ipython-genutils": {
+            "version": "==0.2.0"
+        },
+        "ipywidgets": {
+            "version": "==6.0.0"
+        },
+        "isort": {
+            "version": "==4.2.5"
+        },
+        "jinja2": {
+            "version": "==2.9.5"
+        },
+        "jsonschema": {
+            "version": "==2.6.0"
+        },
+        "jupyter-client": {
+            "version": "==5.0.0"
+        },
+        "jupyter-core": {
+            "version": "==4.3.0"
+        },
+        "keras": {
+            "version": "==2.0.8"
+        },
+        "lazy-object-proxy": {
+            "version": "==1.2.2"
+        },
+        "mako": {
+            "version": "==1.0.6"
+        },
+        "markupsafe": {
+            "version": "==1.0"
+        },
+        "matplotlib": {
+            "version": "==2.0.0"
+        },
+        "mccabe": {
+            "version": "==0.5.3"
+        },
+        "mistune": {
+            "version": "==0.7.4"
+        },
+        "mock": {
+            "version": "==2.0.0"
+        },
+        "monotonic": {
+            "version": "==1.2"
+        },
+        "mpmath": {
+            "version": "==0.19"
+        },
+        "nbconvert": {
+            "version": "==5.1.1"
+        },
+        "nbformat": {
+            "version": "==4.3.0"
+        },
+        "networkx": {
+            "version": "==1.11"
+        },
+        "notebook": {
+            "version": "==5.0.0"
+        },
+        "numexpr": {
+            "version": "==2.6.2"
+        },
+        "numpy": {
+            "version": "==1.12.1"
+        },
+        "olefile": {
+            "version": "==0.44"
+        },
+        "pandas": {
+            "version": "==0.19.2"
+        },
+        "pandocfilters": {
+            "version": "==1.4.1"
+        },
+        "pbr": {
+            "version": "==2.0.0"
+        },
+        "pep8": {
+            "version": "==1.7.0"
+        },
+        "pexpect": {
+            "version": "==4.2.1"
+        },
+        "pickleshare": {
+            "version": "==0.7.4"
+        },
+        "pillow": {
+            "version": "==4.0.0"
+        },
+        "posix-ipc": {
+            "version": "==1.0.0"
+        },
+        "prompt-toolkit": {
+            "version": "==1.0.14"
+        },
+        "protobuf": {
+            "version": "==3.2.0"
+        },
+        "ptyprocess": {
+            "version": "==0.5.1"
+        },
+        "py": {
+            "version": "==1.4.33"
+        },
+        "pycodestyle": {
+            "version": "==2.0.0"
+        },
+        "pycuda": {
+            "version": "==2016.1.2"
+        },
+        "pydicom": {
+            "version": "==0.9.9"
+        },
+        "pydot": {
+            "version": "==1.2.3"
+        },
+        "pydot-ng": {
+            "version": "==1.0.0"
+        },
+        "pyflakes": {
+            "version": "==1.2.3"
+        },
+        "pygments": {
+            "version": "==2.2.0"
+        },
+        "pylint": {
+            "version": "==1.6.4"
+        },
+        "pyparsing": {
+            "version": "==2.2.0"
+        },
+        "pytest": {
+            "version": "==3.0.1"
+        },
+        "pytest-cov": {
+            "version": "==2.3.1"
+        },
+        "python-dateutil": {
+            "version": "==2.6.0"
+        },
+        "pytools": {
+            "version": "==2016.2.6"
+        },
+        "pytz": {
+            "version": "==2016.10"
+        },
+        "pyyaml": {
+            "version": "==3.12"
+        },
+        "pyzmq": {
+            "version": "==16.0.2"
+        },
+        "requests": {
+            "version": "==2.13.0"
+        },
+        "scikit-cuda": {
+            "version": "==0.5.1"
+        },
+        "scikit-image": {
+            "version": "==0.12.3"
+        },
+        "scikit-learn": {
+            "version": "==0.18.1"
+        },
+        "scipy": {
+            "version": "==0.19.0"
+        },
+        "seaborn": {
+            "version": "==0.7.1"
+        },
+        "simplegeneric": {
+            "version": "==0.8.1"
+        },
+        "six": {
+            "version": "==1.10.0"
+        },
+        "sklearn": {
+            "version": "==0.0"
+        },
+        "snowballstemmer": {
+            "version": "==1.2.1"
+        },
+        "sphinx": {
+            "version": "==1.4.6"
+        },
+        "sympy": {
+            "version": "==1.0"
+        },
+        "terminado": {
+            "version": "==0.6"
+        },
+        "testpath": {
+            "version": "==0.3"
+        },
+        "theano": {
+            "version": "==0.9.0"
+        },
+        "toolz": {
+            "version": "==0.8.2"
+        },
+        "tornado": {
+            "version": "==4.4.2"
+        },
+        "tqdm": {
+            "version": "==4.11.2"
+        },
+        "traitlets": {
+            "version": "==4.3.2"
+        },
+        "ujson": {
+            "version": "==1.35"
+        },
+        "wcwidth": {
+            "version": "==0.1.7"
+        },
+        "webencodings": {
+            "version": "==0.5.1"
+        },
+        "widgetsnbextension": {
+            "version": "==2.0.0"
+        },
+        "wrapt": {
+            "version": "==1.10.10"
+        },
+        "zarr": {
+            "version": "==2.1.4"
+        }
+    },
+    "develop": {}
+}
